@@ -35,5 +35,4 @@ Meu nome é Sibelly Araújo da Silva, tenho 17 anos e resido em Maracanaú, Cear
    <img align="center" alt="Sibelly-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   
 </div>
-  
-![Snake animation](https://github.com/SibellyAraujo451/SibellyAraujo451/blob/main/.github/workflows/main.yml)
+
