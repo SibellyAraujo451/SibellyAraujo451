@@ -1,7 +1,6 @@
 ## Olá, sou a Sibelly Araújo!
 
-Meu nome é Sibelly Araújo da Silva, tenho 17 anos e resido em Maracanaú, Ceará. Atualmente, estou no 3° ano do Ensino Médio na EEEP Luiza de Teodoro Vieira, cursando informática. Tenho interesse na área de desenvolvimento, estou em constante busca por aprendizado e aperfeiçoamento. Enquanto sigo em processo de formação, participei de diversos cursos complementares voltados à TI, o que vem contribuindo para a ampliação das minhas competências técnicas e práticas. Tenho facilidade para aprender novas ferramentas e linguagens. Nos momentos livres, dedico-me à leitura, convívio social e ao aprofundamento em temas ligados à tecnologia.
-
+Meu nome é Sibelly Araújo da Silva, tenho 17 anos e resido em Maracanaú, Ceará. Atualmente, estou no 3° ano do Ensino Médio na EEEP Luiza de Teodoro Vieira, cursando informática. Tenho interesse na área de desenvolvimento, estou em constante busca por aprendizado e aperfeiçoamento. Enquanto sigo em processo de formação, participei de diversos cursos complementares voltados à TI, o que vem contribuindo para a ampliação das minhas competências técnicas e práticas. 
 #
 <h2>Redes sociais</h2>
 <div style="display: inline_block"><br>
